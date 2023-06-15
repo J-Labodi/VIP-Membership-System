@@ -5,8 +5,6 @@ The aim of the project was to develop a VIP Membership System for an SMB retaile
 2. How will VIP membership be used within orders
 3. How customers can cancel their VIP membership
 
-The system 
-
 The developer team consisted 3 individuals; 
 * Callum Jones 
 * Connor Mackintosh
