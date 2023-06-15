@@ -67,6 +67,7 @@ BPMN Diagram 2: How VIP membership is used within orders (Operational-model)
 Confirm Customer Details Subprocess </br>
 <img src="https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/faa47b1c-3800-43cb-881e-97db84f5cea3" width="600px">
 
+### Steps of the execution
 Step 1: Running the Java application and sending the appropriate HTTP request to Camunda's API
 ![PhoneOrder](https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/e7f26866-da70-4a02-91c2-be1cc0218114)
 
