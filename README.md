@@ -91,10 +91,13 @@ Step 4: The Customer Service Assitant presented the customer and order details t
 At this stage, Camunda executes the "Confirm order by phone" user task that is indicated by the token of the executing business process. </br>
 ![step4](https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/8c97042d-fe12-47ce-a05b-fa7b1686a24e)
 
+Step 5: Customer receives the invoice that indicates the customer and order details and the calculated delivery charge 
 
+![step5](https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/6b6da169-8957-4e50-a9cb-d0d4fa2272eb)
 
+Step 6: The process is executed, including all the tasks that have been defined within the developed BPMN diagram
 
-
+![Terminal](https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/abbf73fc-ac1b-4ec7-8e86-e92d3548679a)
 
 ### Run the system locally
 
