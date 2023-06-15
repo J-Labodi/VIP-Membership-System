@@ -40,13 +40,13 @@ BPMN Diagram 3: How customers can cancel the VIP membership
 BPMN Diagram 1: How customer can become a VIP member
 <img src="https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/9b76d988-49b7-4f87-ac22-c2eafa6f380c" width="1000px">
 
-Subprocess </br>
+Handel Order Method Subprocess </br>
 <img src="https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/f561a05a-9ba5-4c8a-888c-af3639567d26" width="600px">
 
 BPMN Diagram 2: How VIP membership is used within orders
 <img src="https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/22695093-5531-461e-b03c-7d89bfc2c233" width="1000px">
 
-Subprocess </br>
+Confirm Customer Details Subprocess </br>
 <img src="https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/faa47b1c-3800-43cb-881e-97db84f5cea3" width="600px">
 
 BPMN Diagram 3: How customers can cancel the VIP membership
