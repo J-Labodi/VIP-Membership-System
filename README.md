@@ -20,6 +20,7 @@ The initial aim of the project was to evaluate the current architecture of the c
 
 
 ### i* model of the client's organisation
+The developed i* model represents the organisation's key stakeholders and their goals, dependencies, resources and commitments. 
 
 <img src="https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/fea30a22-5bd9-4130-b294-d533aa2bcef0" width="600px">
 
