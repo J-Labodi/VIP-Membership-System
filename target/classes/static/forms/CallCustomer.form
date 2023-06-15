@@ -1,0 +1,31 @@
+{
+  "components": [
+    {
+      "label": "Call Customer",
+      "type": "textfield",
+      "id": "Field_1rxh45a",
+      "key": "name"
+    },
+    {
+      "label": "On Phone Number",
+      "type": "textfield",
+      "id": "Field_1xupg3z",
+      "key": "phoneNumber"
+    },
+    {
+      "label": "Due to",
+      "type": "textfield",
+      "id": "Field_1b53fyo",
+      "key": "message"
+    }
+  ],
+  "type": "default",
+  "id": "CallCustomer",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

@@ -1,0 +1,23 @@
+{
+  "components": [
+    {
+      "label": "Accept Order",
+      "type": "checkbox",
+      "id": "Field_0bnopxj",
+      "key": "field_1jc23iz",
+      "disabled": false,
+      "properties": {},
+      "required": true,
+      "defaultValue": true
+    }
+  ],
+  "type": "default",
+  "id": "AcceptOrder",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

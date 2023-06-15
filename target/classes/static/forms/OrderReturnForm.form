@@ -1,0 +1,60 @@
+{
+  "components": [
+    {
+      "label": "Customer Name",
+      "type": "textfield",
+      "id": "Field_1wekq2s",
+      "key": "customerName"
+    },
+    {
+      "label": "Customer Number",
+      "type": "textfield",
+      "id": "Field_1ae5msj",
+      "key": "customerNumber",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Post Code",
+      "type": "textfield",
+      "id": "Field_15kf6ni",
+      "key": "postcode"
+    },
+    {
+      "label": "Phone Number",
+      "type": "textfield",
+      "id": "Field_16lni8x",
+      "key": "phoneNumber"
+    },
+    {
+      "label": "Email",
+      "type": "textfield",
+      "id": "Field_0aiald0",
+      "key": "email"
+    },
+    {
+      "label": "Address",
+      "type": "textfield",
+      "id": "Field_0q8zmg1",
+      "key": "address"
+    },
+    {
+      "label": "Create Order return",
+      "type": "checkbox",
+      "id": "Field_056fr4f",
+      "key": "field_073my3p",
+      "properties": {},
+      "defaultValue": true
+    }
+  ],
+  "type": "default",
+  "id": "OrderReturnForm",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

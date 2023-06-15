@@ -1,0 +1,98 @@
+{
+  "components": [
+    {
+      "text": "## Confirm Order \n",
+      "type": "text",
+      "id": "Field_0zj9f2m"
+    },
+    {
+      "text": "### Customer Details",
+      "type": "text",
+      "id": "Field_102g1kk"
+    },
+    {
+      "label": "Name",
+      "type": "textfield",
+      "id": "Field_1macgoi",
+      "key": "confirmCustomerName",
+      "disabled": true
+    },
+    {
+      "label": "Customer Number",
+      "type": "textfield",
+      "id": "Field_1j7bxdf",
+      "key": "confirmCustomerNumber",
+      "disabled": true
+    },
+    {
+      "label": "VIP Status",
+      "type": "textfield",
+      "id": "Field_0twr845",
+      "key": "confirmCustomerVIP",
+      "disabled": true
+    },
+    {
+      "label": "Email",
+      "type": "textfield",
+      "id": "Field_1c2k8dc",
+      "key": "confirmCustomerEmail",
+      "disabled": true
+    },
+    {
+      "label": "Address",
+      "type": "textfield",
+      "id": "Field_1klyk4l",
+      "key": "confirmCustomerAddress",
+      "disabled": true
+    },
+    {
+      "label": "Postcode",
+      "type": "textfield",
+      "id": "Field_0v8gdvq",
+      "key": "confirmCustomerPostcode",
+      "disabled": true
+    },
+    {
+      "label": "Phone Number",
+      "type": "textfield",
+      "id": "Field_0jp6bcs",
+      "key": "ConfirmPhoneNumber",
+      "disabled": true
+    },
+    {
+      "text": "### Order Details",
+      "type": "text",
+      "id": "Field_0w9m8xq"
+    },
+    {
+      "label": "Ordered Item",
+      "type": "textfield",
+      "id": "Field_0lpo585",
+      "key": "Item",
+      "disabled": true
+    },
+    {
+      "label": "Next Day Delivery",
+      "type": "textfield",
+      "id": "Field_0oawvug",
+      "key": "nextDayDelivery",
+      "disabled": true
+    },
+    {
+      "action": "submit",
+      "label": "Order Confirmed ",
+      "type": "button",
+      "id": "Field_114p1qo",
+      "key": "field_0jmsij8"
+    }
+  ],
+  "type": "default",
+  "id": "Form_0inpllq",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.3.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.17.0",
+  "schemaVersion": 4
+}

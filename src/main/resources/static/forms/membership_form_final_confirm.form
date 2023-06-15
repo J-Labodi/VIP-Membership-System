@@ -1,0 +1,86 @@
+{
+  "components": [
+    {
+      "text": "## Order Confirmation",
+      "type": "text",
+      "id": "Field_1a1y1v7"
+    },
+    {
+      "text": "Dear Customer,\n\nThank you for your order. We wanted to let you know that your order is currently being processed and will be shipped soon.\n\nWe appreciate your business and if you have any questions, please feel free to contact us.\n",
+      "type": "text",
+      "id": "Field_04987tk",
+      "properties": {}
+    },
+    {
+      "text": "### Order details",
+      "type": "text",
+      "id": "Field_0r9jcfw"
+    },
+    {
+      "label": "Order Number",
+      "type": "textfield",
+      "id": "Field_15fonkd",
+      "key": "confirmOrderNumber",
+      "disabled": true
+    },
+    {
+      "label": "Customer's Name",
+      "type": "textfield",
+      "id": "Field_1osx3w4",
+      "key": "confirmCustomerName",
+      "disabled": true
+    },
+    {
+      "label": "Customer's Identification Number",
+      "type": "textfield",
+      "id": "Field_1236zbj",
+      "key": "confirmCustomerNumber",
+      "disabled": true
+    },
+    {
+      "label": "Customer's Address",
+      "type": "textfield",
+      "id": "Field_0bf91tu",
+      "key": "confirmCustomerAddress",
+      "disabled": true
+    },
+    {
+      "label": "Customer's Postcode",
+      "type": "textfield",
+      "id": "Field_18pzeo3",
+      "key": "confirmCustomerPostcode",
+      "disabled": true
+    },
+    {
+      "label": "Ordered Item",
+      "type": "textfield",
+      "id": "Field_08itwdc",
+      "key": "Item",
+      "disabled": true
+    },
+    {
+      "label": "Delivery Cost",
+      "type": "textfield",
+      "id": "Field_1nkikja",
+      "key": "deliveryCharge",
+      "disabled": true
+    },
+    {
+      "label": "Payment Status",
+      "type": "textfield",
+      "id": "Field_1k0x8c5",
+      "key": "field_11xcrs5",
+      "defaultValue": "Completed",
+      "disabled": true
+    }
+  ],
+  "type": "default",
+  "id": "membership_form_final_confirm",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.3.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.17.0",
+  "schemaVersion": 4
+}

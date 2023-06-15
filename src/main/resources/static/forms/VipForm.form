@@ -1,0 +1,38 @@
+{
+  "components": [
+    {
+      "label": "Customer Number",
+      "type": "number",
+      "id": "Field_03lmf6c",
+      "key": "customerNumber",
+      "validate": {
+        "required": true
+      }
+    },
+    {
+      "label": "Email Address",
+      "type": "textfield",
+      "id": "Field_1rwoc26",
+      "key": "email",
+      "validate": {
+        "required": true,
+        "pattern": "^[a-zA-Z0-9._%+-]+@[a-zA-Z0-9.-]+\\.[a-zA-Z]{2,}$"
+      }
+    },
+    {
+      "label": "Do you Consent To The Condtions",
+      "type": "checkbox",
+      "id": "Field_0mepi3y",
+      "key": "consent"
+    }
+  ],
+  "type": "default",
+  "id": "VipForm",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

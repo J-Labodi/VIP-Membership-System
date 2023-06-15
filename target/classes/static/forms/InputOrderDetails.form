@@ -1,0 +1,33 @@
+{
+  "components": [
+    {
+      "label": "Item ",
+      "type": "textfield",
+      "id": "Field_17vegd7",
+      "key": "Item",
+      "validate": {
+        "pattern": "^[A-Za-z]+$",
+        "maxLength": 20,
+        "required": true
+      }
+    },
+    {
+      "label": "Customer Number",
+      "type": "number",
+      "id": "Field_1voc3ln",
+      "key": "customerNumber",
+      "validate": {
+        "required": true
+      }
+    }
+  ],
+  "type": "default",
+  "id": "InputOrderDetails",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}

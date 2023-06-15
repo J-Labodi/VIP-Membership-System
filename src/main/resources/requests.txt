@@ -1,0 +1,33 @@
+MembershipInOrder
+
+Phone Order:
+localhost:8080/engine-rest/process-definition/key/Process_19axa12/start
+{"variables":
+    {"isAphoneOrder": {"value": true},
+    "isAmailOrder": {"value": false},
+    "isAwebOrder": {"value": false}
+    }
+}
+
+Mail Order:
+localhost:8080/engine-rest/process-definition/key/Process_19axa12/start
+{"variables":
+    {"isAphoneOrder": {"value": false},
+    "isAmailOrder": {"value": true},
+    "isAwebOrder": {"value": false}
+    }
+}
+
+Web Order:
+localhost:8080/engine-rest/process-definition/key/Process_19axa12/start
+{"variables":
+    {"isAphoneOrder": {"value": false},
+    "isAmailOrder": {"value": false},
+    "isAwebOrder": {"value": true},
+    "customerNumber":{"value": 20,"type":"Integer"},
+    "address":{"value":"11 road avenue","type":"String"},
+    "postcode":{"value":"BS1 3AB","type":"String"},
+    "Item":{"value":"Web Item","type":"String"},
+    "nextDayDelivery":{"value": true}
+    }
+}

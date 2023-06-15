@@ -1,0 +1,88 @@
+{
+  "components": [
+    {
+      "text": "## Custromer Details",
+      "type": "text",
+      "id": "Field_1jpzypk"
+    },
+    {
+      "label": "Customer No.",
+      "type": "number",
+      "id": "Field_06xyeas",
+      "key": "customerNumber",
+      "defaultValue": 0,
+      "description": "Customer Number",
+      "validate": {
+        "min": 1
+      }
+    },
+    {
+      "label": "Address ",
+      "type": "textfield",
+      "id": "Field_1mkptc8",
+      "key": "address",
+      "description": "First line of address",
+      "validate": {
+        "pattern": "^[1-9][0-9]* [A-Za-z0-9\\s,'-]*$",
+        "minLength": 5,
+        "maxLength": 50
+      }
+    },
+    {
+      "label": "Postcode",
+      "type": "textfield",
+      "id": "Field_034pfyx",
+      "key": "postcode",
+      "description": "Postcode",
+      "validate": {
+        "minLength": 5,
+        "pattern": "^[A-Z]{1,2}[0-9]{1,2}[A-Z]? [0-9][A-Z]{2}$",
+        "maxLength": 8
+      }
+    },
+    {
+      "text": "### Item",
+      "type": "text",
+      "id": "Field_0ok86q1"
+    },
+    {
+      "label": "Item",
+      "type": "textfield",
+      "id": "Field_1eeps86",
+      "key": "Item",
+      "validate": {
+        "required": true,
+        "pattern": "^[A-Za-z]+$"
+      },
+      "description": "Ordered item"
+    },
+    {
+      "text": "### Delivery",
+      "type": "text",
+      "id": "Field_1tj9u80"
+    },
+    {
+      "label": "Next Day Delivery requested",
+      "type": "checkbox",
+      "id": "Field_1xtf05v",
+      "key": "nextDayDelivery",
+      "description": "Next day delivery requested by customer "
+    },
+    {
+      "action": "submit",
+      "label": "Submit",
+      "type": "button",
+      "id": "Field_1wb8hjz",
+      "key": "field_1x1tcl5"
+    }
+  ],
+  "type": "default",
+  "id": "membership_form_customer_details",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.3.0"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.17.0",
+  "schemaVersion": 4
+}

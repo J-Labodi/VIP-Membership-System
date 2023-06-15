@@ -1,0 +1,20 @@
+{
+  "components": [
+    {
+      "label": "Refund Customer",
+      "type": "checkbox",
+      "id": "Field_0lym8b2",
+      "key": "field_0bgjur8",
+      "defaultValue": true
+    }
+  ],
+  "type": "default",
+  "id": "RefundCustomer",
+  "exporter": {
+    "name": "Camunda Modeler",
+    "version": "5.4.2"
+  },
+  "executionPlatform": "Camunda Platform",
+  "executionPlatformVersion": "7.18.0",
+  "schemaVersion": 5
+}
