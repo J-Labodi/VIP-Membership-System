@@ -79,7 +79,7 @@ Step 2: Customer Service Assitant presented with the appropriate Camunda form re
 The Customer Service Assitant is able to enter either the customer number or the first line of address & postcode combination to identify the customer. 
 The form also requires entering the name of the ordered item and selecting the optional Next Day Delivery option. 
 
-Step 3: The Customer Service Assitant enters the customer number and the order details such as the name of the ordered item and the requested Next Day Delivery.
+Step 3: The Customer Service Assitant enters the customer number and the order details such as the name of the ordered item and the requested Next Day Delivery.</br>
 ![step3](https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/c99c7792-4ef0-49a4-82cb-00f8d4bf1890)
 
 The form utilises Regex input validation ensuring the appropriate user input.
