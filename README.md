@@ -7,7 +7,7 @@ The aim of the project was to develop a VIP Membership System for an SMB retaile
 
 The development team comprised three individuals: Callum Jones, Connor Mackintosh and Jeno Labodi. Throughout the project we completed the project deliverables in an Agile environment, breaking down the project into two-week sprints. Additionally, we utilized Gitlab for version control and Jira for tracking the progress of product development.
 
-The VIP Membership System is based on;
+The VIP Membership System is based on:
 * 3 BPMN 2.0 operational models designed with Camunda 7.18
 * Camunda Forms
 * Java 15
