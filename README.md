@@ -25,6 +25,8 @@ The initial aim of the project was to evaluate the current architecture of the c
 
 
 ### Strategic-level Business Process Models 
+Strategic-level BPMN 2.0 diagrams representing the 3 different business processes regarding the implementation of the VIP Membership System within the client's organisation.
+
 BPMN Diagram 1: How customer can become a VIP member
 <img src="https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/b2541804-e2b2-4c4e-a1d8-f089c0ca2e18" width="900px">
 
@@ -36,6 +38,7 @@ BPMN Diagram 3: How customers can cancel the VIP membership
 
 
 ### Operational-level Business Process Models 
+Operational-level BPMN 2.0 diagrams representing the 3 different business processes regarding the implementation of the VIP Membership System within the client's organisation.
 
 BPMN Diagram 1: How customer can become a VIP member
 <img src="https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/9b76d988-49b7-4f87-ac22-c2eafa6f380c" width="1000px">
