@@ -64,13 +64,15 @@ The following screenshots demonstrate the running system, completing the busines
 Executed Process: </br> 
 BPMN Diagram 2: How VIP membership is used within orders (Operational-model)
 <img src="https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/22695093-5531-461e-b03c-7d89bfc2c233" width="1000px">
+Confirm Customer Details Subprocess </br>
+<img src="https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/faa47b1c-3800-43cb-881e-97db84f5cea3" width="600px">
 
 Step 1: Running the Java application and sending the appropriate HTTP request to Camunda's API
 ![PhoneOrder](https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/e7f26866-da70-4a02-91c2-be1cc0218114)
 
 The above HTTP request starts the deployed application, imitating that the Customer Service Assistant received a phone order as the request contains the relevant, pre-defined process variables.
 
-Step 2: Customer Service Assitant presented with the 
+Step 2: Customer Service Assitant presented with the
 
 
 
