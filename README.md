@@ -73,9 +73,20 @@ Step 1: Running the Java application and sending the appropriate HTTP request to
 
 The above HTTP request starts the deployed application, imitating that the Customer Service Assistant received a phone order as the request contains the relevant, pre-defined process variables.
 
-Step 2: Customer Service Assitant presented with the
+Step 2: Customer Service Assitant presented with the appropriate Camunda form requesting customer and order details
+![CustomerDetails](https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/eef04a41-229f-4a75-a85f-e531a781a4f6)
 
+The Customer Service Assitant is able to enter either the customer number or the first line of address & postcode combination to identify the customer. 
+The form also requires entering the name of the ordered item and selecting the optional Next Day Delivery option. 
 
+Step 3: The Customer Service Assitant enters the customer number and the order details such as the name of the ordered item and the requested Next Day Delivery.
+![step3](https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/c99c7792-4ef0-49a4-82cb-00f8d4bf1890)
+
+The form utilises Regex input validation ensuring the appropriate user input.
+
+Step 4: The Customer Service Assitant presented the customer and order details that have been retrieved from the application's H2 relational database
+
+![step3](https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/4036f806-c6b8-43b6-a66f-fc3e4027be9f)
 
 
 
