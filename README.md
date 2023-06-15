@@ -18,9 +18,10 @@ The VIP Membership System is based on:
 
 The initial aim of the project was to evaluate the current architecture of the client's information system and propose changes in order to implement the VIP Membership System. The proposal consisted of developing a socio-technical model of the business using i* framework and delivering 3 conceptual-level BPMN 2.0 diagrams that represent the required business processes. Delivering the conceptual models followed by extending the developed business process models to operation-level diagrams that provided the basis of the delivered VIP Membership System. The system allows the user to interact with the automated business processes through Camunda Forms, storing the validated user inputs as process variables followed by completing CRUD operations in the system's H2 database. The developed system demonstrates the logic of setting a customer as a VIP member, utilising VIP membership in the customer order and cancelling a VIP membership by a customer service assistant.  
 
-## Client Organisation 
+
 ### i* model of the client's organisation
 
+![Uploading image.png…]()
 
 
 
@@ -36,8 +37,6 @@ The initial aim of the project was to evaluate the current architecture of the c
 ### Screenshots of the deployed system 
 
 
-
-### Testing
 
 
 
