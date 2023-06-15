@@ -9,7 +9,7 @@ The development team comprised three individuals: Callum Jones, Connor Mackintos
 
 The VIP Membership System is based on:
 * 3 BPMN 2.0 operational models designed with Camunda 7.18
-* Camunda Forms
+* Camunda 7 Forms
 * Java 15
 * Spring Boot 2.7.3
 * H2 Database
