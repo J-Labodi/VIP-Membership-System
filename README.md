@@ -62,7 +62,8 @@ BPMN Diagram 3: How customers can cancel the VIP membership
 The following screenshots demonstrate the running system, completing the business process of using the VIP membership in a customer order by the application that is deployed on the Camunnda Platform.
 
 Step 1: Running the Java application and sending the appropriate HTTP request to Camunda's API
-![POST Request](https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/85b60e0e-55b4-44c1-8b22-2b49615082f0)
+![PhoneOrder](https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/e7f26866-da70-4a02-91c2-be1cc0218114)
+
 
 The above HTTP Request starts the deployed application, imitating that the customer service assistant received a phone order
 
