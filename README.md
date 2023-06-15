@@ -38,19 +38,19 @@ BPMN Diagram 3: How customers can cancel the VIP membership
 ### Operational-level Business Process Models 
 
 BPMN Diagram 1: How customer can become a VIP member
-<img src="https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/85d200db-e992-4a7d-adb8-795643131b42" width="900px">
+<img src="https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/85d200db-e992-4a7d-adb8-795643131b42" width="1000px">
 
 Subprocess
-<img src="https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/f561a05a-9ba5-4c8a-888c-af3639567d26" width="900px">
+<img src="https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/f561a05a-9ba5-4c8a-888c-af3639567d26" width="600px">
 
 BPMN Diagram 2: How VIP membership is used within orders
-<img src="https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/22695093-5531-461e-b03c-7d89bfc2c233" width="900px">
+<img src="https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/22695093-5531-461e-b03c-7d89bfc2c233" width="1000px">
 
 Subprocess
-<img src="https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/faa47b1c-3800-43cb-881e-97db84f5cea3" width="900px">
+<img src="https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/faa47b1c-3800-43cb-881e-97db84f5cea3" width="600px">
 
 BPMN Diagram 3: How customers can cancel the VIP membership
-<img src="https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/0ec2d117-b59a-4517-b95b-e38c36a93db8" width="900px">
+<img src="https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/0ec2d117-b59a-4517-b95b-e38c36a93db8" width="1000px">
 
 
 
