@@ -86,7 +86,11 @@ The form utilises Regex input validation ensuring the appropriate user input.
 
 Step 4: The Customer Service Assitant presented the customer and order details that have been retrieved from the application's H2 relational database
 
-![step3](https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/4036f806-c6b8-43b6-a66f-fc3e4027be9f)
+![step4](https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/4036f806-c6b8-43b6-a66f-fc3e4027be9f)
+
+At this stage, Camunda executes the "Confirm order by phone" user task that is indicated by the token of the executing business process. </br>
+![step4](https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/8c97042d-fe12-47ce-a05b-fa7b1686a24e)
+
 
 
 
