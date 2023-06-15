@@ -61,7 +61,7 @@ BPMN Diagram 3: How customers can cancel the VIP membership
 ## Screenshots 
 The following screenshots demonstrate the running system, completing the business process of using the VIP membership in a customer order by the application that is deployed on the Camunnda Platform.
 
-Executed Process: 
+Executed Process: </br> 
 BPMN Diagram 2: How VIP membership is used within orders (Operational-model)
 <img src="https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/22695093-5531-461e-b03c-7d89bfc2c233" width="1000px">
 
