@@ -21,7 +21,7 @@ The initial aim of the project was to evaluate the current architecture of the c
 
 ### i* model of the client's organisation
 
-![Uploading image.png…]()
+
 
 
 
