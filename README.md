@@ -65,7 +65,7 @@ Step 1: Running the Java application and sending the appropriate HTTP request to
 ![PhoneOrder](https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/e7f26866-da70-4a02-91c2-be1cc0218114)
 
 
-The above HTTP Request starts the deployed application, imitating that the customer service assistant received a phone order as the request contains the relevant, pre-defined process variables.
+The above HTTP request starts the deployed application, imitating that the customer service assistant received a phone order as the request contains the relevant, pre-defined process variables.
 
 
 
