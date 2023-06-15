@@ -8,7 +8,8 @@ The aim of the project was to develop a VIP Membership System for an SMB retaile
 The developer team consisted 3 individuals; 
 * Callum Jones 
 * Connor Mackintosh
-* Jeno Labodi </br>
+* Jeno Labodi
+</br></br>
 who completed the project deliverables in Agile settings, dividing the project into fortnight-long sprints, utilising Gitlab for version control and Jira for tracking product development. 
 
 The VIP Membership System is based on;
