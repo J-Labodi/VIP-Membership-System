@@ -31,7 +31,7 @@ BPMN Diagram 1: How customer can become a VIP member
 BPMN Diagram 2: How VIP membership is used within orders
 <img src="https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/9c2379b1-88c8-4782-9b10-eabac5ac1bbc" width="900px">
 
-![BPMN2 (2)](https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/6452d62c-acf3-49cc-8a42-6f474159230d)
+<img src="https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/6452d62c-acf3-49cc-8a42-6f474159230d" width="900px">
 
 
 
