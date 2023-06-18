@@ -99,6 +99,4 @@ Step 6: The process is executed, including all the tasks that have been defined 
 
 ![Terminal](https://github.com/J-Labodi/VIP-Membership-System/assets/79979904/abbf73fc-ac1b-4ec7-8e86-e92d3548679a)
 
-### Run the system locally
-
 
